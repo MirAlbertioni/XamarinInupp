@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MinApp</string>
-  <string name="readJson">Sök</string>
+  <string name="app_name">Hitta närmsta station</string>
+  <string name="readJson">Sök på ort</string>
 </resources>

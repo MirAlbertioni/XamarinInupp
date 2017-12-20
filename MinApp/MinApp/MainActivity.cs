@@ -11,7 +11,7 @@ using System;
 
 namespace MinApp
 {
-    [Activity(Label = "MinApp", MainLauncher = true)]
+    [Activity(Label = "Hitta närmsta station", MainLauncher = true)]
     public class MainActivity : Activity
     {
         EditText inputLocation;

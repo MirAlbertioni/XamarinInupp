@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInUpp", "..\..\AppInUpp\AppInUpp\AppInUpp.csproj", "{FAAD4967-501E-421B-8D96-1DA165B493EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAD4967-501E-421B-8D96-1DA165B493EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04EFAAA-F97F-43E8-B005-553884FB287B}
+	EndGlobalSection
+EndGlobal
